@@ -1,7 +1,7 @@
 # Super secure, much safe, so chat
 
 Students:
-  Elias Rabl, Andreas Lindlbauer
+  Rajagopal T K P
 
 
 The project is hosted at: http://cs-capstone-chat.herokuapp.com/
